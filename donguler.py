@@ -1,0 +1,17 @@
+krediler = ["Hızlı Kredi", "Maaşını Halkbank'tan alanlara özel" , "Mutlu emekli ihtiyaç kredisi"]
+
+#alias
+for kredi in krediler:
+    print("<option>"+kredi+"<option>")
+
+for i in range(len(krediler)):
+    print(i)
+
+for i in range(len(krediler)):
+    print(kredşler[i])
+
+for i in range(3,10):
+    print(i) 
+
+for i in range(0,10,2):
+    print(i)
